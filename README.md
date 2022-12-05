@@ -1,2 +1,2 @@
-# CoLearn
-Conjugated machine learning
+# ArrheniusColearn
+Conjugated machine learning for the Arrhenius equation.
