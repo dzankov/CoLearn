@@ -1,1 +1,1 @@
-# Conjugated QSPR models for reaction
+# Conjugated reaction QSPR models
